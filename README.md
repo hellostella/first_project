@@ -1,4 +1,4 @@
-# first_project
+# Personal Finance Manager
 
 Welcome to your Personal Finance Manager!
 

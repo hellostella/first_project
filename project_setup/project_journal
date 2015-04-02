@@ -2,8 +2,27 @@ Personal Finance Manager- First Project
 
 First Project Journal
 
-Day 1: After confirming I would be assigned the Personal Finance Manageer
+Day 1 Initial Discussions: After confirming I would be assigned the Personal Finance Manageer
 for my project, I started by collaborating with classmates on mapping out our models
 and creating an initial ERD to better flesh out the details of how the application will work.
 While initially we had began mapping out a more complicated set of models representing
-what looks like 
+3 models basing it off Specific Users, Specific Accounts, and Specific Transactions (each an individual model)
+with its own attributes, to where we can identify attributes for each. However, after additional discussions
+we found this could be achieved on a more simplified level using only 2 models. The ERD included in the project_setup folder
+displays this two model system.
+
+Day 1 Evening: Following the discussions with the group of those also assigned the Financial Planner project, I returned home
+to do some research on a means of calculating the user balance. I tried to step back from my specific ideas on my specific app
+and look more to a broader model and brainstorm about how an actual user would want their balance calculated and the needs of this in
+an app. I did some research within the documentation online on calculating column sums and then thought about methods i could use to create this as i moved
+back into thinking about my specific app. Following this I decided it would be best to do some reinforcing of my concepts and actually practice looking back on
+previous homework assignments, in class work, and tutorials available online, I thought this would prepare me for the next full day (Wednesday 4/1)
+where I would begin building my project.
+
+Day 2 (Wednesday 4/1): I decided to stop doing my project and take the entire day off.....(April Fools) That will conclude
+my attempt at humor in this journal, as I suspect I will not have fooled anyone reading this.
+I began the day with a scrum with Andy and the rest of the group, we discussed our goals for the day. My specific goals were
+to take what I had read about regarding ideas for calculating the balance for a user, share this with the group, obtain some feedback
+and then dive into the code. So, this is excactly what I did. I outline my ideas for the balance with the group, and began trying to work it out.
+After trying this for an hour or two and struggling with defining a method to properly calculate the balance, I decided to step away and work on the UI portion
+of the app and the menu options to adhere to those user stories I defined, which will be requirements and guidelines for my program.

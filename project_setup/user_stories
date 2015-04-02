@@ -2,3 +2,14 @@ User Stories:
 
 
 As a user, with impulsive spending habits, I need a way to accurately monitor both my spending and deposit activity all while being able to constantly check my account balances.
+
+User should be able to create a new account
+User should be able to view all transactions for specified account
+User should be able to delete User account
+User should be able to delete specific transactions
+User should be able to correct an error and update transaction
+User should be able to track spending (debits) 
+User should be able to find current balance for specific account
+User should be able to specify spending (debits) by Payee and categorize their spending by a category
+
+

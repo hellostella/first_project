@@ -71,12 +71,12 @@ require_relative 'lib/transaction'
     return user_account_balance
   end
 
-  # def user_filter_transaction(account)
-  #   tp account.transactions
-  #   puts " Please select category to view (Food,Work,Deposit,Leisure)"
-  #   user_category_choice = gets.chomp
-  #   return account.transactions.where(category: user_category_choice).sum(:debit)
-  # end
+   def user_filter_transaction(account)
+   tp account.transactions
+   puts " Please select category to view (Food,Work,Deposit,Leisure)"
+   user_category_choice = gets.chomp
+   return account.transactions.where(category: user_category_choice).sum(:debit)
+  end
 
 
 
